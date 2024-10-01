@@ -1,3 +1,3 @@
 # sub_repo
 
-vo chi trung
+test github action
