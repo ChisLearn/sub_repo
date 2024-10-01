@@ -1,3 +1,3 @@
 # sub_repo
 
-test
+vo chi trung
