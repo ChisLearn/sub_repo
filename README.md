@@ -1,3 +1,3 @@
 # sub_repo
 
-test github action
+test github action v2
